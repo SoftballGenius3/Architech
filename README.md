@@ -1,0 +1,2 @@
+# Architech
+Survival Minecraft Server
